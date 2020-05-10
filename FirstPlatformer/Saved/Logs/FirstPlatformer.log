@@ -606,3 +606,329 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.06-06.52.40:246][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.05.06-06.52.47:044][  9]LogAssetRegistry: Asset discovery search completed in 84.7590 seconds
 [2020.05.06-06.52.47:174][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.025615 seconds (updated 0 objects)
+[2020.05.06-07.07.26:623][612]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.05.06-07.17.42:215][254]LogSlate: Took 0.016936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-07.22.36:159][ 59]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.23.43:316][254]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.24.41:142][425]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.24.41:142][425]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.25.39:033][594]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.42.51:103][212]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.43.44:691][ 10]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.44.14:500][ 74]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-07.57.29:316][378]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.06-07.58.50:279][131]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-08.00.43:116][450]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.06-08.00.43:970][450]LogSlate: Took 0.055504 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.06-08.00.49:968][450]LogUObjectHash: Compacting FUObjectHashTables data took 491.29ms
+[2020.05.06-08.00.52:645][450]LogSavePackage: Moving '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Level_17E29F978446EF748BC40489BDBEE5932.tmp' to '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Content/__MyContent/Maps/Level_1.umap'
+[2020.05.06-08.00.54:863][450]LogSavePackage: Moving '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Level_1_BuiltData74D5CF874F6FC05095F133AB00068C42.tmp' to '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Content/__MyContent/Maps/Level_1_BuiltData.uasset'
+[2020.05.06-08.00.55:013][450]LogFileHelpers: Saving map 'Level_1' took 11.524
+[2020.05.06-08.00.55:774][450]Cmd: MAP LOAD FILE="../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Content/__MyContent/Maps/Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.06-08.00.55:941][450]LightingResults: New page: Lighting Build
+[2020.05.06-08.00.56:091][450]LoadErrors: New page: Loading map: Level_1.umap
+[2020.05.06-08.00.57:115][450]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.06-08.00.57:342][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.06-08.00.57:415][450]MapCheck: New page: Map Check
+[2020.05.06-08.00.57:445][450]LightingResults: New page: Lighting Build
+[2020.05.06-08.01.00:340][450]LogUObjectHash: Compacting FUObjectHashTables data took 155.26ms
+[2020.05.06-08.01.02:885][450]LogAIModule: Creating AISystem for world Level_1
+[2020.05.06-08.01.04:957][450]LogEditorServer: Finished looking for orphan Actors (0.004 secs)
+[2020.05.06-08.01.05:475][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.05.06-08.01.05:646][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.06-08.01.05:703][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.01ms to complete.
+[2020.05.06-08.01.05:724][450]LogFileHelpers: Loading map 'Level_1' took 10.711
+[2020.05.06-08.01.06:596][450]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-08.01.06:596][450]LogContentValidation: Display: Validating World /Game/__MyContent/Maps/Level_1.Level_1
+[2020.05.06-08.01.06:597][450]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.05.06-08.01.58:050][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.06-08.09.01:735][964]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-08.09.55:452][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.05.06-08.09.56:130][492]LogSavePackage: Moving '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Level_1_Auto11C4A9AD449079F07341F91B2DC578B50.tmp' to '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Autosaves/Game/__MyContent/Maps/Level_1_Auto1.umap'
+[2020.05.06-08.09.56:237][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/__MyContent/Maps/Level_1' took 1.034
+[2020.05.06-08.09.56:238][492]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.034
+[2020.05.06-08.29.33:547][426]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-08.30.34:969][624]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.05.06-08.30.35:605][624]LogSavePackage: Moving '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Level_1F9A6863C4578FD5F4EB235B3A2C15423.tmp' to '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Content/__MyContent/Maps/Level_1.umap'
+[2020.05.06-08.30.36:006][624]LogSavePackage: Moving '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Saved/Level_1_BuiltData1E5780B245475321E1A80AB13C3CE19B.tmp' to '../../../../../../Users/Seth Palliaer/Documents/GitHub/UE4-Platformer/FirstPlatformer/Content/__MyContent/Maps/Level_1_BuiltData.uasset'
+[2020.05.06-08.30.36:117][624]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.06-08.30.36:117][624]LogContentValidation: Display: Validating World /Game/__MyContent/Maps/Level_1.Level_1
+[2020.05.06-08.30.36:117][624]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/__MyContent/Maps/Level_1_BuiltData.Level_1_BuiltData
+[2020.05.06-08.43.19:383][706]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.05.06-09.43.21:953][942]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-11.36.57:656][887]LogTemp: Resetting audio stream to device id 
+[2020.05.06-11.37.04:499][887]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-11.37.04:499][887]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-11.37.04:499][887]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-11.37.04:499][887]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-11.37.04:499][887]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-11.37.04:500][887]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-11.37.04:500][887]LogAudioMixer: Display: Channel Order:
+[2020.05.06-11.37.04:500][887]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-11.37.04:500][887]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-11.37.07:879][888]LogTemp: Resetting audio stream to device id 
+[2020.05.06-11.37.07:928][888]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-11.37.07:928][888]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: Channel Order:
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-11.37.07:929][888]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.24.05:792][939]LogTemp: Resetting audio stream to device id 
+[2020.05.06-14.24.13:237][939]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-14.24.13:237][939]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-14.24.13:237][939]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-14.24.13:237][939]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-14.24.13:237][939]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-14.24.13:238][939]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-14.24.13:238][939]LogAudioMixer: Display: Channel Order:
+[2020.05.06-14.24.13:238][939]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-14.24.13:238][939]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.24.15:574][940]LogTemp: Resetting audio stream to device id 
+[2020.05.06-14.24.28:675][940]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: Channel Order:
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-14.24.28:676][940]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.24.31:808][941]LogTemp: Resetting audio stream to device id 
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: Channel Order:
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-14.24.35:011][941]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.24.35:129][942]LogTemp: Resetting audio stream to device id 
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: Channel Order:
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-14.24.35:337][942]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.24.36:914][943]LogTemp: Resetting audio stream to device id 
+[2020.05.06-14.24.36:949][943]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: Channel Order:
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-14.24.36:950][943]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-14.25.47:785][990]LogRenderer: Reallocating scene render targets to support 856x396 Format 10 NumSamples 1 (Frame:1823).
+[2020.05.06-22.06.13:038][247]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.06-22.06.14:742][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.06-23.03.25:022][445]LogTemp: Resetting audio stream to device id 
+[2020.05.06-23.03.26:120][445]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: Channel Order:
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-23.03.26:150][445]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-23.03.27:448][446]LogTemp: Resetting audio stream to device id 
+[2020.05.06-23.03.27:501][446]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-23.03.27:501][446]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-23.03.27:501][446]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-23.03.27:501][446]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-23.03.27:501][446]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-23.03.27:502][446]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-23.03.27:502][446]LogAudioMixer: Display: Channel Order:
+[2020.05.06-23.03.27:502][446]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-23.03.27:502][446]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-23.03.27:821][447]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.06-23.04.20:404][496]LogTemp: Resetting audio stream to device id 
+[2020.05.06-23.04.20:869][496]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-23.04.20:870][496]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-23.04.20:871][496]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-23.04.20:871][496]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-23.04.20:871][496]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-23.04.20:871][496]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-23.04.20:898][496]LogAudioMixer: Display: Channel Order:
+[2020.05.06-23.04.20:898][496]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-23.04.20:898][496]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-23.06.37:173][841]LogTemp: Resetting audio stream to device id 
+[2020.05.06-23.06.38:050][841]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-23.06.38:050][841]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-23.06.38:050][841]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-23.06.38:050][841]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-23.06.38:050][841]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-23.06.38:051][841]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-23.06.38:051][841]LogAudioMixer: Display: Channel Order:
+[2020.05.06-23.06.38:051][841]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-23.06.38:051][841]LogAudioMixer: Display: 1: FrontRight
+[2020.05.06-23.06.38:397][842]LogTemp: Resetting audio stream to device id 
+[2020.05.06-23.06.38:438][842]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.06-23.06.38:438][842]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.06-23.06.38:438][842]LogAudioMixer: Display: Is Default: Yes
+[2020.05.06-23.06.38:438][842]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.06-23.06.38:439][842]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.06-23.06.38:439][842]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.06-23.06.38:439][842]LogAudioMixer: Display: Channel Order:
+[2020.05.06-23.06.38:519][842]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.06-23.06.38:586][842]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-06.01.47:609][865]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.01.51:128][865]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.09-06.01.57:519][865]LogTemp: Resetting audio stream to device id 
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-06.01.58:099][865]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-06.01.58:100][865]LogAudioMixer: Display: Channel Order:
+[2020.05.09-06.01.58:100][865]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-06.01.58:100][865]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-06.02.41:621][866]LogTemp: Resetting audio stream to device id 
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-06.02.41:706][866]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-06.02.41:707][866]LogAudioMixer: Display: Channel Order:
+[2020.05.09-06.02.41:707][866]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-06.02.41:707][866]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-06.02.43:406][867]LogTemp: Resetting audio stream to device id 
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-06.02.43:476][867]LogAudioMixer: Display: Channel Order:
+[2020.05.09-06.02.43:477][867]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-06.02.43:477][867]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-06.04.01:898][ 24]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.04.02:427][ 25]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.04.02:928][ 25]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.04.03:428][ 25]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.04.03:926][ 25]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-06.52.14:610][965]Cmd: MAP CHECK
+[2020.05.09-06.52.15:303][965]MapCheck: New page: Level_1 - 10 May 2020, 2:52:14 am
+[2020.05.09-06.52.16:165][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,202.707ms to complete.
+[2020.05.09-06.52.24:858][ 42]LogSlate: Window 'Message Log' being destroyed
+[2020.05.09-06.52.24:899][ 42]LogSlate: Window 'Message Log' being destroyed
+[2020.05.09-07.11.31:138][485]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.09-07.23.52:733][649]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.09-07.27.12:288][241]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.09-07.28.11:026][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/MyWaypointPlatform.MyWaypointPlatform
+[2020.05.09-07.28.27:619][734]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1835 seconds. Added 121 classes and 0 folders.
+[2020.05.09-07.30.24:422][735]LogRenderer: Reallocating scene render targets to support 856x444 Format 10 NumSamples 1 (Frame:1).
+[2020.05.09-07.30.37:044][735]LogSlate: Window 'MyWaypointPlatform' being destroyed
+[2020.05.09-07.30.41:515][735]LogSlate: Window 'MyWaypointPlatform' being destroyed
+[2020.05.09-07.30.44:334][735]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.09-07.30.44:824][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.09-07.31.28:608][736]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/MyWaypointPlatform.MyWaypointPlatform
+[2020.05.09-07.33.40:970][846]LogSlate: Window 'MyWaypointPlatform' being destroyed
+[2020.05.09-07.33.41:631][846]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.09-07.33.41:632][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.09-07.33.42:723][846]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/__MyContent/Blueprints/MyWaypointPlatform.MyWaypointPlatform
+[2020.05.09-07.33.53:319][846]LogSlate: Took 0.197709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.09-07.36.50:574][711]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-07.37.13:566][773]BlueprintLog: New page: Compile MyWaypointPlatform
+[2020.05.09-07.38.26:605][773]LogUObjectHash: Compacting FUObjectHashTables data took 1906.67ms
+[2020.05.09-07.53.24:943][656]LogTemp: Resetting audio stream to device id 
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: Channel Order:
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-07.53.28:988][656]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-07.53.33:109][657]LogTemp: Resetting audio stream to device id 
+[2020.05.09-07.53.34:898][657]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-07.53.34:898][657]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-07.53.34:898][657]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: Channel Order:
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-07.53.34:899][657]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-07.53.36:174][658]LogTemp: Resetting audio stream to device id 
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: Channel Order:
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-07.53.38:367][658]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-07.53.41:086][659]LogTemp: Resetting audio stream to device id 
+[2020.05.09-07.53.41:124][659]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-07.53.41:124][659]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: Channel Order:
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-07.53.41:125][659]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-08.43.55:857][711]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.09-08.44.12:083][711]LogTemp: Resetting audio stream to device id 
+[2020.05.09-08.44.12:360][711]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-08.44.12:360][711]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-08.44.12:360][711]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-08.44.12:360][711]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-08.44.12:360][711]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-08.44.12:361][711]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-08.44.12:361][711]LogAudioMixer: Display: Channel Order:
+[2020.05.09-08.44.12:361][711]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-08.44.12:361][711]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-08.44.16:561][712]LogTemp: Resetting audio stream to device id 
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: Channel Order:
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-08.44.17:972][712]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-08.44.18:494][713]LogTemp: Resetting audio stream to device id 
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Is Default: Yes
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.09-08.44.18:869][713]LogAudioMixer: Display: Channel Order:
+[2020.05.09-08.44.18:870][713]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.09-08.44.18:870][713]LogAudioMixer: Display: 1: FrontRight
+[2020.05.09-08.47.28:302][141]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.05.09-09.05.10:231][299]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11VertexBuffer.cpp:8
+[2020.05.09-09.05.10:319][299]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11VertexBuffer.cpp:88 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2020.05.09-09.05.10:319][299]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021445E4A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.05.09-09.05.10:769][299]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.05.09-09.06.26:467][299]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.09-09.06.26:468][299]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.05.09-09.06.28:245][299]LogD3D11RHI: Error: Direct3DDevice->CreateInputLayout( InVertexDeclaration && InVertexDeclaration->VertexElements.Num() ? InVertexDeclaration->VertexElements.GetData() : &NullInputElement, InVertexDeclaration ? InVertexDeclaration->VertexElements.Num() : 0, &InVertexShader->Code[ InVertexShader->Offset ], VertexShaderCode.GetActualShaderCodeSize() - InVertexShader->Offset, InputLayout.GetInitReference() ) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Shaders.cpp:316 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DRIVER_INTERNAL_ERROR
+[2020.05.09-09.06.28:262][299]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021445E4A0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.05.09-09.06.28:262][299]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.09-09.06.28:262][299]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.05.09-09.06.28:283][299]Log file closed, 05/09/20 19:06:28
